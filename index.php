@@ -7,7 +7,7 @@
 	echo '<p>TEST DATABASE </p>;
 	$host_heroku = "ec2-54-146-91-153.compute-1.amazonaws.com";
 	$db_heroku = "d8hdjv4le2jqun";
-	$user_heroku = "viurkgajlugnms"
+	$user_heroku = "viurkgajlugnms";
 	$pw_heroku = "3d33c822e23329eb406e2659a016cee4759ac092f4f96157f4a8ba65a3dcbd39";
 	
 	$conn_string = "host=$host_heroku port=5432 dbname=$db_heroku user=$user_heroku password=$pw_heroku";
