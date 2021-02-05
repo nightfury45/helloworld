@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<?php
-			echo '<p>TEST DATABASE </p>;
+			echo '<p>TEST DATABASE </p>';
 			# Heroku credential
 			$host_heroku = "ec2-54-146-91-153.compute-1.amazonaws.com";
 			$db_heroku = "d8hdjv4le2jqun";
